@@ -16,7 +16,7 @@ Key Features:
 
 6. README: Includes detailed information about the purpose of the repository, instructions for accessing/viewing the portfolio, and any additional notes or resources.
 
-Project Link:- 
+Project Link:- https://adarshkumar06.github.io/personal_portfolio/
 
 Here is some Screenshots of my project interfaces:
 ![portfolio](https://github.com/adarshkumar06/personal_portfolio/assets/154667153/eace7201-9d7b-479a-8cce-99f2ec506e60)
