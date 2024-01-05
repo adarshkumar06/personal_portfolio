@@ -1,4 +1,4 @@
-Personal Portfolio
+# Personal Portfolio
 
 The "Personal Portfolio" repository serves as a showcase for my personal portfolio website built using HTML and CSS. It's a collection of files and assets that represent my skills, experiences, and projects in web development.
 
